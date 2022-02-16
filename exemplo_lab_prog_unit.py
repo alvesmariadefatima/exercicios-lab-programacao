@@ -35,6 +35,29 @@ x > 6
 
 x > 15
 
+#Comandos extend e remove()
+
+l1 = list(range(5))
+print(l1)
+l1.append(2)
+
+print(l)
+l.insert(0,6)
+print(l)
+l.reverse()
+print(l)
+l.sort()
+print(l)
+
+l2 = list(range(5, 9))
+print(l2)
+
+l1.extend(l2)
+print(l1)
+
+l1.remove(l2)
+print(l1)
+
 #Erro de concatenação
 
 v = "1"
