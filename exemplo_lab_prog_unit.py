@@ -75,3 +75,21 @@ l.reverse()
 print(l)
 l.sort()
 print(l)
+
+#Comando range (Criação de listas)
+
+l = list(range(10))
+l
+l[2:7]
+
+l[3:6]
+
+l[1:5]
+
+#Comando slice (Criação de listas)
+lista = list(range(10))
+lista
+l[2:7]
+l[2:7:2]
+l[1:4:6]
+l[2:5:1]
