@@ -33,6 +33,36 @@ type(x)
 
 x > 6
 
+#Exercício 01 - Criação de listas e seleção/remoção de elementos na mesma lista
+
+
+lista1 = list(range(10))
+lista1
+lista1 [:8]
+
+lista1 [-8:]
+
+#lista1 [-5:]
+
+#lista1 [2:8]
+
+#lista1 [:-8]
+
+#lista1  [::3]
+
+#lista1 [::-1]
+
+#Exercício 02 - Criação de tuplas e seleção/remoção de elementos na mesma tupla
+
+t =  (1, 'roney', 2, 'lira')
+t
+
+t [:1]
+
+t [:2]
+
+t [1:2]
+
 x > 15
 
 #Comandos extend e remove()
