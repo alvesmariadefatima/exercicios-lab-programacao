@@ -36,3 +36,15 @@ j = "hel"
 j + "lo" == "hello"
 
 int(1) != "Hello"
+
+#Lógica usando tabela verdade
+
+#x and False == False
+#False and x == False
+
+c = True
+c and b != b and c
+
+#x and True == x
+#True and x == x
+#x and x == x
