@@ -48,3 +48,14 @@ c and b != b and c
 #x and True == x
 #True and x == x
 #x and x == x
+
+#Estrutura de decisão if else
+
+x = float(input('Digite qualquer valor: '))
+
+if x%2 ==0:
+  print(x, "é par.")
+  print("Você sabia que o 2 é o único número par que é primo? ")
+else:
+    print(x, "é ímpar.")
+    print("Você sabia que a multiplicação de dois números ímpares" + "sempre resulta em um número ímpar?")
