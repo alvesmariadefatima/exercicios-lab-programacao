@@ -23,3 +23,16 @@ for i in range(3):
   print(media)
   print("LOOP", i)
    
+5 == (3+2)
+
+5 == 6
+
+j = "hel"
+j + "lo" == "hello"
+
+int(1) != "Hello"
+
+j = "hel"
+j + "lo" == "hello"
+
+int(1) != "Hello"
