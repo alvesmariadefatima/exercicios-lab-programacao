@@ -1,4 +1,4 @@
-#Preço Notebook -> R$ 1000,00 
+#Preço Notebook -> R$ 1500,00 
 #Preço Ipad -> R$ 1000,00
 
 qtd_unidade_produto = int(input('Digite a quantidade de produtos comprados: '))
